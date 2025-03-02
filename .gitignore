@@ -1,0 +1,4 @@
+# untracked directories
+.streamlit/
+.venv/
+**/__pycache__/
